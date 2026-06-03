@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+attendance_data.json
+*.csv
+.vscode/
